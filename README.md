@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @baisalikhan
-- 👀 I’m interested in Web Development
+- 👀 My Field of interest is Web Development
+- 👀 Currently Working as a React/Next Js developer
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on Paid Projects
+- 💞️ I’m looking to collaborate on big open source Projects
 - 📫 How to reach me https://www.linkedin.com/in/baisalikhan/
 
 <!---
