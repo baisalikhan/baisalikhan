@@ -12,7 +12,7 @@ I am a results-driven .NET & React Full Stack Developer with over 2.5 years of p
 *   👨‍💻 All of my projects are available at [https://github.com/baisalikhan?tab=repositories](https://github.com/baisalikhan?tab=repositories) [1].
 *   💬 Ask me about C#, ASP.NET Core, React.js, and Next.js [6].
 *   📫 How to reach me: baisalikhan710@gmail.com or connect on LinkedIn at linkedin.com/in/baisalikhan [1, 2].
-*   🌍 **Location:** Islamabad, Pakistan (Willing to relocate to the UAE) [2].
+*   🌍 **Location:** Islamabad, Pakistan (Willing to relocate) [2].
 *   ⚡ Fun fact: My kitchen is my happy place, and my taste buds are my biggest fans! [1].
 
 ### 🛠️ Technical Arsenal
